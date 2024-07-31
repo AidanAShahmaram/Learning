@@ -1,0 +1,12 @@
+.list {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
+.list.first{
+    color:chocolate;
+}
+
+.list.second{
+    color:brown;
+}
