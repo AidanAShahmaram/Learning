@@ -10,3 +10,10 @@
 .list.second{
     color:brown;
 }
+
+#box {
+    border: 5px solid purple;
+    padding: 30px;
+    margin: 60px;
+    background-color: pink;
+}
